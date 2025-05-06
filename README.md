@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kostiantyn 👋
 
-<!--
-**ostapenko-kostia/ostapenko-kostia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Developer with experience in building modern web applications. I specialize in using technologies like React, Next.js, TypeScript, Tailwind CSS, and PostgreSQL. My current focus is on integrating AI into my projects to enhance user experiences and automation.
 
-Here are some ideas to get you started:
+## Skills
+- **Frontend**: React, Next.js, Tailwind CSS, TypeScript
+- **Backend**: Node.js, Prisma, PostgreSQL, Express.js
+- **Other**: Git, AWS, Stripe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [AI Dating Assistant](https://github.com/yourusername/AI-Dating-Assistant) - AI-powered chat response generator for dating applications.
+
+## Connect with me
+- [Telegram](https://t.me/khos_streks)
+- [Website](https://ostapenko.pp.ua)
