@@ -1,4 +1,4 @@
-# Hi, I'm Kostiantyn 👋
+# Fullstack Developer focused on modern web apps & AI integration
 
 I'm a Fullstack Developer with experience in building modern web applications. I specialize in using technologies like React, Next.js, TypeScript, Tailwind CSS, and PostgreSQL. My current focus is on integrating AI into my projects to enhance user experiences and automation.
 
