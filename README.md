@@ -8,7 +8,7 @@ I'm a Fullstack Developer with experience in building modern web applications. I
 - **Other**: Git, AWS, Stripe
 
 ## My Projects
-- [AI Dating Assistant](https://github.com/yourusername/AI-Dating-Assistant) - AI-powered chat response generator for dating applications.
+- [AI Dating Assistant](https://github.com/ostapenko-kostia/charm-ai) - AI-powered chat response generator for dating applications.
 
 ## Connect with me
 - [Telegram](https://t.me/khos_streks)
