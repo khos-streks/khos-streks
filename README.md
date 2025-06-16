@@ -4,7 +4,7 @@ I'm a Fullstack Developer with experience in building modern web applications. I
 
 ## Skills
 - **Frontend**: React, Next.js, Tailwind CSS, TypeScript
-- **Backend**: Node.js, Prisma, PostgreSQL, Express.js
+- **Backend**: Node.js, Nest.js, Express.js, Prisma, PostgreSQL
 
 ## My Projects
 - [Charm AI](https://github.com/ostapenko-kostia/charm-ai) - AI-powered chat response generator for dating applications.
