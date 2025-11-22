@@ -11,4 +11,4 @@ I'm a Fullstack Developer with experience in building modern web applications. I
 - [Light 2U](https://github.com/khos-streks/light-2u) - Online store specializing in high-quality lighting solutions.
 - [Lumineka](https://github.com/khos-streks/monoled) - Premium lighting brand offering a diverse selection of modern and innovative light fixtures
 - [Fabriq](https://fabriq.com.pl/en) - A modern multilingual website designed for a company specializing in the creation and sale of statues
-- [MHP Logistics Budgeting] - NDA-protected web app designed for automating budgeting processes for MHP Logistics company. Demo available upon request.
+- [MHP Logistics Budgeting] - Web app designed for automating budgeting processes for MHP Logistics company. Demo available upon request.
