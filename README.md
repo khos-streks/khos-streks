@@ -21,8 +21,8 @@ I deliver projects from MVP to full-feature SaaS with:
 ---
 
 ### 🚀 Featured Project
-**Bluetongue
-***SaaS Learning Platform
+** Bluetongue
+*** SaaS Learning Platform
 - **Features:** Dashboard, Subscription, Custom Reader, Multilanguage  
 - **Tech:** Next.js, Nest.js, PostgreSQL, GCP  
 - **Demo:** [bluetongue.com.ua](https://bluetongue.com.ua)  
