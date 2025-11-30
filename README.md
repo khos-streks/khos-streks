@@ -1,14 +1,39 @@
-# Fullstack Developer focused on modern web apps & AI integration
+# 👋 Hi, I'm Kostiantyn
+## SaaS & Telegram Mini Apps Expert | Full-cycle dev (MVP → Full build → Support)
 
-I'm a Fullstack Developer with experience in building modern web applications. I specialize in using technologies like React, Next.js, TypeScript, Tailwind CSS, and PostgreSQL. My current focus is on integrating AI into my projects to enhance user experiences and automation.
+I'm a full-cycle developer specializing in **SaaS platforms** and **Telegram Mini Apps**.  
+I deliver projects from MVP to full-feature SaaS with:
 
-## Skills
-- **Frontend**: React, Next.js, Tailwind CSS, TypeScript
-- **Backend**: Node.js, Nest.js, Express.js, Prisma, PostgreSQL
+- Subscription systems  
+- Dashboards  
+- Custom automation  
+- Telegram Mini Apps
 
-## My Projects
-- [Charm AI](https://github.com/khos-streks/charm-ai) - AI-powered chat response generator for dating applications.
-- [Light 2U](https://github.com/khos-streks/light-2u) - Online store specializing in high-quality lighting solutions.
-- [Lumineka](https://github.com/khos-streks/monoled) - Premium lighting brand offering a diverse selection of modern and innovative light fixtures
-- [Fabriq](https://fabriq.com.pl/en) - A modern multilingual website designed for a company specializing in the creation and sale of statues
-- [MHP Logistics Budgeting] - Web app designed for automating budgeting processes for MHP Logistics company. Demo available upon request.
+### 🛠 Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![i18n](https://img.shields.io/badge/i18n-4FD1C5?style=for-the-badge)
+
+---
+
+### 🚀 Featured Project
+**SaaS Learning Platform**  
+- **Features:** Dashboard, Subscription, Custom Reader, Multilanguage  
+- **Tech:** Next.js, Nest.js, PostgreSQL, GCP  
+- **Demo:** [bluetongue.com.ua](https://bluetongue.com.ua)  
+
+### 🤖 Telegram Mini Apps
+- Rapid dashboards and integrations for startups  
+- Subscription & automation features  
+- Examples available upon request (private repos)
+
+---
+
+📬 **Let's build your SaaS or Telegram Mini App!**
+
+- Telegram: [https://t.me/khos_streks](https://t.me/khos_streks)  
+- Email: [kostiantyn@ostapenko.pp.ua](mailto:kostiantyn@ostapenko.pp.ua)
